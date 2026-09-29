@@ -12,13 +12,13 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="assets/matrix-left.svg" alt="matrix left" width="100" height="350" />
+      <img src="assets/matrix-left.svg?v=2" alt="matrix left" width="100" height="350" />
     </td>
     <td align="center" valign="middle">
       <img src="https://femboy.beauty/d2cRMG" alt="drawing" width="350"/>
     </td>
     <td align="center" valign="middle">
-      <img src="assets/matrix-right.svg" alt="matrix right" width="100" height="350" />
+      <img src="assets/matrix-right.svg?v=2" alt="matrix right" width="100" height="350" />
     </td>
   </tr>
 </table>
