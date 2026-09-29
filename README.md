@@ -9,9 +9,117 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=1000&color=FF2E2E&center=true&vCenter=true&width=650&lines=Deobfuscation+%7C+Bytecode+Analysis;Building+clean+client+bases;Breaking+Protection+Schemes" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://femboy.beauty/d2cRMG" alt="drawing" width="350"/>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <svg width="100" height="350" viewBox="0 0 100 350" xmlns="http://www.w3.org/2000/svg">
+        <rect width="100" height="350" fill="#0D1117"/>
+        <g fill="#00FF41" font-family="monospace" font-size="12" text-anchor="middle">
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="10,-150;10,350" dur="4s" begin="0s" repeatCount="indefinite"/>
+            <text x="10" y="0" opacity="0.9">1</text>
+            <text x="10" y="15" opacity="0.75">0</text>
+            <text x="10" y="30" opacity="0.6">1</text>
+            <text x="10" y="45" opacity="0.45">0</text>
+            <text x="10" y="60" opacity="0.3">1</text>
+            <text x="10" y="75" opacity="0.15">0</text>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="30,-150;30,350" dur="5.5s" begin="-2s" repeatCount="indefinite"/>
+            <text x="30" y="0" opacity="0.9">0</text>
+            <text x="30" y="15" opacity="0.75">1</text>
+            <text x="30" y="30" opacity="0.6">0</text>
+            <text x="30" y="45" opacity="0.45">1</text>
+            <text x="30" y="60" opacity="0.3">0</text>
+            <text x="30" y="75" opacity="0.15">1</text>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="50,-150;50,350" dur="3.5s" begin="-1s" repeatCount="indefinite"/>
+            <text x="50" y="0" opacity="0.9">1</text>
+            <text x="50" y="15" opacity="0.75">1</text>
+            <text x="50" y="30" opacity="0.6">0</text>
+            <text x="50" y="45" opacity="0.45">0</text>
+            <text x="50" y="60" opacity="0.3">1</text>
+            <text x="50" y="75" opacity="0.15">0</text>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="70,-150;70,350" dur="6s" begin="-3s" repeatCount="indefinite"/>
+            <text x="70" y="0" opacity="0.9">0</text>
+            <text x="70" y="15" opacity="0.75">0</text>
+            <text x="70" y="30" opacity="0.6">1</text>
+            <text x="70" y="45" opacity="0.45">1</text>
+            <text x="70" y="60" opacity="0.3">0</text>
+            <text x="70" y="75" opacity="0.15">0</text>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="90,-150;90,350" dur="4.5s" begin="-0.5s" repeatCount="indefinite"/>
+            <text x="90" y="0" opacity="0.9">1</text>
+            <text x="90" y="15" opacity="0.75">0</text>
+            <text x="90" y="30" opacity="0.6">1</text>
+            <text x="90" y="45" opacity="0.45">1</text>
+            <text x="90" y="60" opacity="0.3">0</text>
+            <text x="90" y="75" opacity="0.15">1</text>
+          </g>
+        </g>
+      </svg>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://femboy.beauty/d2cRMG" alt="drawing" width="350"/>
+    </td>
+    <td align="center" valign="middle">
+      <svg width="100" height="350" viewBox="0 0 100 350" xmlns="http://www.w3.org/2000/svg">
+        <rect width="100" height="350" fill="#0D1117"/>
+        <g fill="#00FF41" font-family="monospace" font-size="12" text-anchor="middle">
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="10,-150;10,350" dur="5s" begin="-1.5s" repeatCount="indefinite"/>
+            <text x="10" y="0" opacity="0.9">0</text>
+            <text x="10" y="15" opacity="0.75">1</text>
+            <text x="10" y="30" opacity="0.6">0</text>
+            <text x="10" y="45" opacity="0.45">0</text>
+            <text x="10" y="60" opacity="0.3">1</text>
+            <text x="10" y="75" opacity="0.15">0</text>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="30,-150;30,350" dur="3.8s" begin="-0.3s" repeatCount="indefinite"/>
+            <text x="30" y="0" opacity="0.9">1</text>
+            <text x="30" y="15" opacity="0.75">0</text>
+            <text x="30" y="30" opacity="0.6">1</text>
+            <text x="30" y="45" opacity="0.45">0</text>
+            <text x="30" y="60" opacity="0.3">0</text>
+            <text x="30" y="75" opacity="0.15">1</text>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="50,-150;50,350" dur="6.2s" begin="-2.5s" repeatCount="indefinite"/>
+            <text x="50" y="0" opacity="0.9">0</text>
+            <text x="50" y="15" opacity="0.75">0</text>
+            <text x="50" y="30" opacity="0.6">1</text>
+            <text x="50" y="45" opacity="0.45">1</text>
+            <text x="50" y="60" opacity="0.3">0</text>
+            <text x="50" y="75" opacity="0.15">0</text>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="70,-150;70,350" dur="4.2s" begin="-3.8s" repeatCount="indefinite"/>
+            <text x="70" y="0" opacity="0.9">1</text>
+            <text x="70" y="15" opacity="0.75">1</text>
+            <text x="70" y="30" opacity="0.6">0</text>
+            <text x="70" y="45" opacity="0.45">0</text>
+            <text x="70" y="60" opacity="0.3">1</text>
+            <text x="70" y="75" opacity="0.15">0</text>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="translate" values="90,-150;90,350" dur="5.7s" begin="-0.8s" repeatCount="indefinite"/>
+            <text x="90" y="0" opacity="0.9">0</text>
+            <text x="90" y="15" opacity="0.75">1</text>
+            <text x="90" y="30" opacity="0.6">0</text>
+            <text x="90" y="45" opacity="0.45">1</text>
+            <text x="90" y="60" opacity="0.3">0</text>
+            <text x="90" y="75" opacity="0.15">1</text>
+          </g>
+        </g>
+      </svg>
+    </td>
+  </tr>
+</table>
 
 ---
 
