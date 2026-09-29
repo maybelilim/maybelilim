@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maybelilim&color=FF2E2E&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="https://femboy.beauty/d2cRMG" alt="drawing" width="350"/>
 </p>
 
