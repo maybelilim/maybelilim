@@ -15,9 +15,9 @@
 
 I work on two sides of the same coin:
 
-**Reverse Engineering** - deobfuscation, bytecode analysis, and breaking down protection schemes in Java applications. My main focus is the Minecraft ecosystem: loader internals, anti-debug tricks, HWID.
+**Reverse Engineering** — deobfuscation, bytecode analysis, and breaking down protection schemes in Java applications. My main focus is the Minecraft ecosystem: loader internals, anti-debug tricks, HWID.
 
-**Client Development** - building clean, modern, and extensible client bases. I care about readable code, sane architecture, and a foundation people actually want to build on.
+**Client Development** — building clean, modern, and extensible client bases. I care about readable code, sane architecture, and a foundation people actually want to build on.
 
 Both disciplines feed each other: understanding how loaders and protections work makes me a better developer, and building clients teaches me where those protections break.
 
@@ -36,8 +36,8 @@ Both disciplines feed each other: understanding how loaders and protections work
 
 | Project | Description |
 |---------|-------------|
-| [**favelayaw**](https://github.com/maybelilim/favelayaw) | A modern Minecraft client base - clean structure, sane architecture, module system, and a foundation ready to build on. |
-| [**Sydney-Cracked**](https://github.com/maybelilim/Sydney-Cracked) | Full deobfuscation and analysis of a legacy Sydney loader's protection scheme - authorization, HWID, and network protocol. |
+| [**favelayaw**](https://github.com/maybelilim/favelayaw) | A modern Minecraft client base — clean structure, sane architecture, module system, and a foundation ready to build on. |
+| [**Sydney-Cracked**](https://github.com/maybelilim/Sydney-Cracked) | Full deobfuscation and analysis of a legacy Sydney loader's protection scheme — authorization, HWID, and network protocol. |
 
 ---
 
