@@ -9,6 +9,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=1000&color=FF2E2E&center=true&vCenter=true&width=650&lines=Deobfuscation+%7C+Bytecode+Analysis;Building+clean+client+bases;Breaking+Protection+Schemes" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maybelilim&color=FF2E2E&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://femboy.beauty/d2cRMG" alt="drawing" width="350"/>
+</p>
+
 ---
 
 ### About me
